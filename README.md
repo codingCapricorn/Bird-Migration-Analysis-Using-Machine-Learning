@@ -11,7 +11,7 @@ Dataset: https://inbo.carto.com/u/lifewatch/datasets
 
 Dependencies: Matplotlib, Pandas, Numpy, Cartopy, Shapely
 
-We will divide our case study into five parts:
+The repository is divided into five parts:
 
     1. Visualizing longitude and latitude data of the gulls.
 2. Visualize the variation of the speed of the gulls.
