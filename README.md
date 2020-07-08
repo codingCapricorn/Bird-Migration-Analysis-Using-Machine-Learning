@@ -14,7 +14,7 @@ Dependencies: Matplotlib, Pandas, Numpy, Cartopy, Shapely
 
 The repository is divided into five modules ::::
 
-    1. Visualizing longitude and latitude data of the gulls.
+    -->>1. Visualizing longitude and latitude data of the gulls.
     2. Visualize the variation of the speed of the gulls.
     3. Visualize the time required by the gulls to cover equal distances over the journey.
     4. Visualize the daily mean speed of the gulls.
