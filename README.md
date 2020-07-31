@@ -19,5 +19,3 @@ The repository contains five modules ::::
     -->> 3. Visualize the time required by the gulls to cover equal distances over the journey.
     -->> 4. Visualize the daily mean speed of the gulls.
     -->> 5. Cartographic view of the journey of the gulls.
-
-Pull requests are welcome .....
