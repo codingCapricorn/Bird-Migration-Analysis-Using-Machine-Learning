@@ -12,6 +12,8 @@ Dataset: https://inbo.carto.com/u/lifewatch/datasets
 
 Dependencies: Matplotlib, Pandas, Numpy, Cartopy, Shapely
 
+#
+
 The repository contains five modules ::::
 
     -->> 1. Visualizing longitude and latitude data of the gulls.
